@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "MannaMila/mannamila-web",
+  "sourceCommit": "ed7adfa19bc6e1da25f57155d6043b7b687d3446",
+  "sourcePath": "squash",
+  "sourceTreeDirty": false,
+  "files": {
+    "app.js": "74284b6716a675f428c55856675d39ef51c26321bc79a54c617b8352d759fa86",
+    "assets/mila-squash-og.jpg": "b77d9e897174a89c8c412101bb330fa9b29db37cb5b9850f1c8aac506e96b0ce",
+    "availability.json": "83024c257c751cef9de256cfd47d360236b3999e792e91d2111e5630fadcc250",
+    "index.html": "ae5c7e2474d134a470b3c157001af175e92ad987663831221988312ea84ea939",
+    "privacy/index.html": "9651f279ea738d7f5e30508d8ee28db13963c0a6ed8f9220a158230f3cbebd62",
+    "site-config.json": "bd8872dd7021a71ae07892c1b86e794a8fac7489791aaf6331bcb80dfd66ccfc",
+    "styles.css": "f23c5286626ef20e0f3573803223be3cb10285754a96628fde622f541d208987",
+    "support/index.html": "f8010ebc69837c150fbf06318769171648636518e06514352449fcbfad57b7dc",
+    "waitlist-privacy/index.html": "9228a4396eb43e37435c2eb7127caade27b4dcefd1d5ada0dbf32fd527c7f741"
+  }
+}
