@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "MannaMila/mannamila-web",
-  "sourceCommit": "6379a11ebcd44e1b6f557b0e69b02fe7f21aaa3b",
+  "sourceCommit": "26975f7a42f5730cab1df7ec3444ddd8da3f19a4",
   "sourcePath": "squash",
   "sourceTreeDirty": false,
   "files": {
-    "analytics.js": "025f325071d4a00f70d4f146749aae06ea7c89b368e5ab5e68c84d4d83fe3720",
     "app.js": "74284b6716a675f428c55856675d39ef51c26321bc79a54c617b8352d759fa86",
     "assets/mila-squash-og.jpg": "b77d9e897174a89c8c412101bb330fa9b29db37cb5b9850f1c8aac506e96b0ce",
     "availability.json": "83024c257c751cef9de256cfd47d360236b3999e792e91d2111e5630fadcc250",
-    "index.html": "c2a797e29d6edf899df71480fd93fa4d3f7d0a8822767f4bfc8e33bfc91d155a",
-    "privacy/index.html": "019ce1ffdc0d2e54f0dd0002b4315702e4ed9716bae47b7bdd27f04752259f49",
+    "index.html": "258ef489806fc8c2e55d4c35f03752b79235d8fef653025de80fb3bc5f16561c",
+    "privacy/index.html": "9858c6388975960daa17ce674488b05daa74017599e747175df503154d06cc7f",
+    "retire-analytics.js": "363e97096e5d80edbbd2d48fe66d605516034942d3263d5fbb74e127e4165631",
     "site-config.json": "bd8872dd7021a71ae07892c1b86e794a8fac7489791aaf6331bcb80dfd66ccfc",
     "styles.css": "f23c5286626ef20e0f3573803223be3cb10285754a96628fde622f541d208987",
-    "support/index.html": "7cfb43ff7523076afd3d882ba9edcd6f55cdf68b283aa17d71468b1aebc0f39e",
-    "waitlist-privacy/index.html": "4718b72b0077328fc647bc66dc1807d6701f5d219bfe0b0368795a918485515f"
+    "support/index.html": "bd12ad768a2a78becaa089f194f559bfaa379286cdfdb809cedd6bdd4f15ea59",
+    "waitlist-privacy/index.html": "7bb1dd5e11366cefb5920604b941c71f1dba285381e16371df04d575c54b2b5d"
   }
 }
