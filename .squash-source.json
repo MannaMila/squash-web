@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "MannaMila/mannamila-web",
-  "sourceCommit": "d32c249164bc0a3db665f5da14028d242f682118",
+  "sourceCommit": "8d70fccb72924d08f398aa57814872481b3405c6",
   "sourcePath": "squash",
   "sourceTreeDirty": false,
   "files": {
@@ -21,7 +21,7 @@
     "media/shot-analysis.jpg": "b5305817528032c51787c760966f467e1b9c84c6ac7664bb59abea76b5e4cb1a",
     "media/shot-analysis.mp4": "89c4925b130d6e277ee9aa6f57a9586b519ce6d8f3e879108a04572bb8344661",
     "privacy/index.html": "493472b722eb995ffe0568f0a75f35072f884a62a7939b57dfc308e185510d4d",
-    "site-config.json": "6d8ceea24ee8bc822bad5ffd4912c02f61bda7b2e4b71976e36d7d7216cc00b1",
+    "site-config.json": "040cbcd74ccc19d745f186289b2c4d526f70ad4f55a8c88de4ec1b24bb8e44f2",
     "styles.css": "70176072f31ad2482e5e4906398852164cf701764ae435c6a13597bcc0369502",
     "support/index.html": "d61ebaab06b8c3aa75e60096d4a93f8490cd6fec283b67649d1434fbf8eefb3f",
     "waitlist-privacy/index.html": "860e02d1d21c14ef54b17115e0dfa36394415f7a1d212e356a15de1a24d1a532"
