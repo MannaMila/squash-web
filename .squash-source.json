@@ -1,29 +1,25 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "MannaMila/mannamila-web",
-  "sourceCommit": "8d70fccb72924d08f398aa57814872481b3405c6",
+  "sourceCommit": "1a0c6dd28de06b40d8a82ed442da1b41fbbb4171",
   "sourcePath": "squash",
   "sourceTreeDirty": false,
   "files": {
     "analytics.js": "efe685eeaf8bb725df6e58ce7710c981261ac7c3d0214a2a4357f4b4ef60c040",
-    "app.js": "295a8dadebf37dfb35d9b1e98a3987ba5fe6e498cf7608011c45479f94b344c0",
+    "app.js": "65883c6da294c9bcacbb7ad025c47fd62f1c20004f71f5a3e20545465102b2db",
     "assets/mila-squash-og.jpg": "0755aca37c177a95b0e9d644dfc177e51c80f840cdec01ef49e950e69954558b",
     "availability.json": "22e7c7b92caa771f62ff1643609a83bfe8366653b1d1049095210f1dc34eae95",
-    "index.html": "5dd9e709e66fadcfc418b63971982b339e806c0dc8b89b05febb271ec7538a3e",
+    "index.html": "5ca2cbe12ffdd8a098d1a6d52569fd7130a61aedf3aaed2029446b77911fd722",
+    "list/index.html": "554fed4ac57733a607ccd4324e6905fc17362c4ce274111b7dd05ac5eeb43fa3",
+    "list/list.js": "0c8f0d93ec378b7a4e445d9e37f68a76b3b11c17f17dea6cdf5d710cbca0e0e8",
     "media/hand-racket-ball-control.jpg": "207d38acc899116dace9fa2e26eaa1d217d830e977dbf55389502fa76b9de95f",
     "media/hand-racket-ball-control.mp4": "969859fee0a199e50ed9050928a2d1f77c080867ab1b0a619071a651b63faf90",
-    "media/instant-coaching.jpg": "386248de030cb5fdb35fe57aa17d6c5863fa2f19290434006c82d98c64b577ff",
-    "media/instant-coaching.mp4": "7b1cd06e8e9403bd856f88737ba7ce5c3d356e80e6e2997a247eba45ccc53557",
     "media/progress-and-consistency.jpg": "acf38833696d9adafab77a8580ea22d9f9c463ffb70d38d6225cf4f2ce7c7155",
     "media/progress-and-consistency.mp4": "09a9c9716577b27a421df114369fcd0348cd29f47a9cdedd326b582ca64f7db7",
-    "media/serve-practice.jpg": "c528b25a2d717de50979dc35bff6fae5ff5ee6ec7d892e83d760056ff6aa1a06",
-    "media/serve-practice.mp4": "520447312854dc594ef6918edb8b58b78c7e6764d5daddb75fbc9f6123f35b12",
-    "media/shot-analysis.jpg": "b5305817528032c51787c760966f467e1b9c84c6ac7664bb59abea76b5e4cb1a",
-    "media/shot-analysis.mp4": "89c4925b130d6e277ee9aa6f57a9586b519ce6d8f3e879108a04572bb8344661",
     "privacy/index.html": "493472b722eb995ffe0568f0a75f35072f884a62a7939b57dfc308e185510d4d",
     "site-config.json": "040cbcd74ccc19d745f186289b2c4d526f70ad4f55a8c88de4ec1b24bb8e44f2",
-    "styles.css": "70176072f31ad2482e5e4906398852164cf701764ae435c6a13597bcc0369502",
+    "styles.css": "b90196298625f4d89913570c0065bef65b2a155866b01e2d97df547adbb5c739",
     "support/index.html": "d61ebaab06b8c3aa75e60096d4a93f8490cd6fec283b67649d1434fbf8eefb3f",
-    "waitlist-privacy/index.html": "860e02d1d21c14ef54b17115e0dfa36394415f7a1d212e356a15de1a24d1a532"
+    "waitlist-privacy/index.html": "8f8cd08e129f7d01ede349911e1f191d6bc93ac2bb1f93762d6d38c924369664"
   }
 }
