@@ -1,16 +1,18 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "MannaMila/mannamila-web",
-  "sourceCommit": "d30b11977dcde40230eb98fd3b5e4b03777c846a",
+  "sourceCommit": "105e7b7c69f14380904638acb882ef4068d3d150",
   "sourcePath": "squash",
   "sourceTreeDirty": false,
   "files": {
     "analytics.js": "efe685eeaf8bb725df6e58ce7710c981261ac7c3d0214a2a4357f4b4ef60c040",
     "app.js": "c7a433ec513eaacee719f58583e57dbc3a4a97cf568c44a27543a69835b0e124",
     "assets/favicon.svg": "2cb502d7dd860a8725481d63a65fe08500908394a00e10b1184b5badd921d43d",
+    "assets/meta-quest-3.png": "b318defb6ac03062d14f5c27d069f08ffa2744f4de1fe8d6d8686f43df95f58a",
+    "assets/meta-quest-3.webp": "380db7d31b66bdc938636b5c173d9005b77355ba1dcc1ce9405d907d9f4d6cb4",
     "assets/mila-squash-og.jpg": "0755aca37c177a95b0e9d644dfc177e51c80f840cdec01ef49e950e69954558b",
     "availability.json": "22e7c7b92caa771f62ff1643609a83bfe8366653b1d1049095210f1dc34eae95",
-    "index.html": "70289c1ba84068486105774bf1799b88b95bf54b33ad29d11d03214849f27555",
+    "index.html": "c64e8299a22d92aa5143c7803f37835b321c4a929d2bed10bcad856260c56538",
     "list/index.html": "f83f6bfba28e76c5a1cf367756e892832bfc59951b06bd4a2e4f9c71292a119b",
     "list/list.js": "0c8f0d93ec378b7a4e445d9e37f68a76b3b11c17f17dea6cdf5d710cbca0e0e8",
     "media/hand-racket-ball-control.jpg": "207d38acc899116dace9fa2e26eaa1d217d830e977dbf55389502fa76b9de95f",
@@ -21,7 +23,7 @@
     "media/serve-practice.mp4": "520447312854dc594ef6918edb8b58b78c7e6764d5daddb75fbc9f6123f35b12",
     "privacy/index.html": "493472b722eb995ffe0568f0a75f35072f884a62a7939b57dfc308e185510d4d",
     "site-config.json": "040cbcd74ccc19d745f186289b2c4d526f70ad4f55a8c88de4ec1b24bb8e44f2",
-    "styles.css": "712190da5007e9cca32b884ea37ddf38987c1df1eeab05b1ad714ca339e0e3ff",
+    "styles.css": "51b656a85d97c9a9ae631ab9be20593886510c01b2eda0d221b6777c3bf4c14f",
     "support/index.html": "d61ebaab06b8c3aa75e60096d4a93f8490cd6fec283b67649d1434fbf8eefb3f",
     "waitlist-privacy/index.html": "8f8cd08e129f7d01ede349911e1f191d6bc93ac2bb1f93762d6d38c924369664"
   }
